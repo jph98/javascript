@@ -1,7 +1,8 @@
-# Airbnb JavaScript Style Guide() {
+# BP JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
+This was initially forked from the Airbnb style guide for minor modifications to fit into our coding guidelines.
 
 ## Table of Contents
 
@@ -728,7 +729,7 @@
 
 ## Whitespace
 
-  - Use soft tabs set to 2 spaces
+  - Use 4 spaces, not tabs
 
     ```javascript
     // bad
