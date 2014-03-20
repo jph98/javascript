@@ -731,12 +731,6 @@ This was initially forked from the Airbnb style guide for minor modifications to
 
   - Use 4 spaces, not tabs
 
-    ```javascript
-    // bad
-    function() {
-    ∙∙∙∙var name;
-    }
-
     // bad
     function() {
     ∙var name;
@@ -744,7 +738,7 @@ This was initially forked from the Airbnb style guide for minor modifications to
 
     // good
     function() {
-    ∙∙var name;
+    ∙∙..var name;
     }
     ```
 
